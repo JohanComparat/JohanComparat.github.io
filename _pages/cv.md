@@ -80,8 +80,8 @@ Service to the community
 
 Collaborations
 ======
-* **Current:** Euclid (Clusters of Galaxies SWG), Rubin/LSST (DESC and Galaxies collaborations), eROSITA, 4MOST (PI of S5; member of S6, S8, S15, S17).
-* **Previous:** SDSS-V (X-ray clusters working group chair), SDSS-IV/eBOSS and SPIDERS, SDSS-III/BOSS, DESI (emission line galaxy target selection), DESI Legacy Imaging Surveys DR3, DR5 and DR10 (DR10 run manager), MultiDark, VLT/FORS2 and MUSE, CS82 and VICS82.
+* **Current:** Euclid (Clusters of Galaxies SWG), Rubin/LSST (DESC and Galaxies collaborations), eROSITA.
+* **Previous:** 4MOST (former PI of S5; member of S6, S8, S15, S17), SDSS-V (X-ray clusters working group chair), SDSS-IV/eBOSS and SPIDERS, SDSS-III/BOSS, DESI (emission line galaxy target selection), DESI Legacy Imaging Surveys DR3, DR5 and DR10 (DR10 run manager), MultiDark, VLT/FORS2 and MUSE, CS82 and VICS82.
 
 Publications and talks
 ======
