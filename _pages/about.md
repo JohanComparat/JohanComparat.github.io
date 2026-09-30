@@ -28,8 +28,6 @@ Collaborations
 
 In the past I have actively contributed to SDSS-III/BOSS, SDSS-IV/eBOSS and SPIDERS, SDSS-V, 4MOST (now permanent member), DESI, the DESI Legacy Imaging Surveys and MultiDark. 
 
-See my [publications](/publications/), [invited talks](/talks/), [teaching](/teaching/) and [CV](/cv/).
-
 Contact
 ------
 Johan Comparat<br/>
