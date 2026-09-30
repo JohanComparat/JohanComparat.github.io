@@ -9,56 +9,92 @@ redirect_from:
 
 {% include base_path %}
 
+Positions
+======
+* **Since Dec. 2025:** *Chaire de professeur junior*, Université Grenoble Alpes and LPSC (CNRS/IN2P3), Grenoble, France.
+  * The large-scale structure seen by Euclid and Rubin/LSST. Collaborators: J. Macías-Pérez, C. Combet.
+* **2017–2025:** Researcher, Max-Planck-Institut für extraterrestrische Physik (MPE), Garching, Germany.
+  * The large-scale structure seen in X-rays: clusters, AGN, galaxies. Clustering and lensing of AGN and galaxies. Cosmology with the cluster halo mass function. End-to-end cosmological simulations for X-ray all-sky surveys. Optical follow-up of X-ray sources with photometry and spectroscopy. Collaborators: A. Merloni, M. Salvato, G. Ponti, E. Bulbul, K. Nandra.
+* **2014–2017:** Severo Ochoa postdoctoral fellow, Instituto de Física Teórica (UAM-CSIC), Madrid, Spain.
+  * N-body simulations and galaxy surveys, the galaxy–halo connection. Collaborators: F. Prada, G. Yepes.
+* **Sept.–Nov. 2013:** Invited researcher, CPPM and LAM, Marseille, France.
+  * Abundance of [OII] emitting galaxies.
+* **Mar.–Aug. 2010:** Research engineer, Laboratoire d'Astrophysique de Marseille (LAM), France.
+  * Measurement of the galaxy power spectrum.
+
+Long-term visits: LPSC, Grenoble (2024–2025); Lawrence Berkeley National Laboratory, USA (2015); Harvard-Smithsonian Center for Astrophysics, USA (2013).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **2026:** Habilitation à Diriger des Recherches, Université Grenoble Alpes. [*The cosmological large-scale structure in multi-wavelength, a focus on X-rays and optical*](/hdr/).
+* **2013:** PhD in astrophysics and cosmology, Laboratoire d'Astrophysique de Marseille. *Baryon acoustic oscillations with emission line galaxies at intermediate redshift.* Advisors: J.-P. Kneib, C. Schimd.
+* **2010:** Master in physics, École Polytechnique Fédérale de Lausanne (LASTRO), Switzerland. Search for lensed quasars. Advisors: G. Meylan, F. Courbin.
+* **2005–2010:** Engineering degree, École Polytechnique (X05), Palaiseau, France. Exoplanet detection with microlensing. Advisor: J.-P. Beaulieu.
+* **2003–2005:** Classes préparatoires (PCSI, PC*), Lycée du Parc, Lyon, France.
+* **2003:** French Baccalauréat and German Abitur, international high school, Grenoble, France.
 
-Work experience
+Grants
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2025–2029:** Principal investigator, CPJ/ANR grant (team of one PhD student and one postdoc).
+* **2010–2013:** PhD grant of the École Polytechnique (AMX).
+* **2013:** Predoctoral fund, Harvard-Smithsonian Center for Astrophysics.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Supervision
+======
+**PhD students**
+* S. Shreeram, 2021–2025, MPE
+* Y. Zhang, 2021–2025, MPE
+* R. Seppi, 2019–2023, MPE
+* J. Ider Chitham, 2017–2021, MPE
+* F. Albareti, 2015–2018, UAM Madrid (co-supervised with F. Prada)
+* S. Rodríguez-Torres, 2014–2017, UAM Madrid (co-supervised with F. Prada and G. Yepes)
+* G. Favole, 2012–2016, UAM Madrid (co-supervised with F. Prada)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Master students**
+* S. Teymourzadeh, MPE, 2023
+* S. Shreeram, MPE and EPFL, 2021
+* C. Caruncho Llaguno, UAM Madrid, 2016
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Bachelor courses at the Université Grenoble Alpes (electricity; special relativity from 2027), a Master course in advanced cosmology at UAM Madrid, and lectures at graduate schools. See [teaching](/teaching/).
+
+Research management
 ======
-* Currently signed in to 43 different slack teams
+* **2025–2029:** principal investigator of the CPJ/ANR project.
+* **2019–2025:** principal investigator of the eROSITA/4MOST cluster spectroscopic survey (S5).
+* **2019–2025:** lead of the eROSITA/SDSS-V cluster spectroscopic survey.
+* **2019–2022:** lead of the eROSITA cosmology work package.
+* **2018–2023:** co-chair of the eROSITA/HSC AGN and clustering working group.
+* **2018–2020:** co-chair of the eBOSS galaxy science working group.
+* **2017–2020:** responsible for the SDSS-IV/eBOSS SPIDERS data.
+* **2014–2018:** responsible for the SDSS-IV/eBOSS emission line galaxy program (about 450 h of spectroscopy, a quarter million redshifts).
+
+Service to the community
+======
+* Referee for MNRAS, A&A and ApJ; reviewer for ANR and INAF.
+* Member of the ESO OPC and Chandra expert panels.
+* 2017–2020: MPE representative at the SDSS-IV collaboration council.
+* Organiser or co-organiser of 13 conferences, schools and collaboration meetings, including the EAS special session on the hot CGM (Padova, 2024), the MMC workshop at ESO (2022), the SDSS collaboration meeting (2020), the Alpine cosmology workshops (2017–2019) and the Corfu dark energy and galaxy survey school (2014).
+
+Collaborations
+======
+* **Current:** Euclid (Clusters of Galaxies SWG), Rubin/LSST (DESC and Galaxies collaborations), eROSITA, 4MOST (PI of S5; member of S6, S8, S15, S17).
+* **Previous:** SDSS-V (X-ray clusters working group chair), SDSS-IV/eBOSS and SPIDERS, SDSS-III/BOSS, DESI (emission line galaxy target selection), DESI Legacy Imaging Surveys DR3, DR5 and DR10 (DR10 run manager), MultiDark, VLT/FORS2 and MUSE, CS82 and VICS82.
+
+Publications and talks
+======
+* More than 230 scientific articles, 16 as first author and 15 led by PhD students I supervised. See [publications](/publications/).
+* 157 presentations, including 17 invited conference talks and 34 invited seminars. See [talks](/talks/).
+
+Outreach
+======
+* Article in *Physik in unserer Zeit* (Wiley, 2022).
+* Interviews for two articles about eROSITA in *Le Figaro*.
+* MPE open day, Garching, 2017 (450 visitors); Fête de la science, LAM, Marseille, 2010.
+
+Skills
+======
+* **Languages:** French (native), English (fluent), German (fluent), Spanish (good), Italian (basic).
+* **Computing:** Python, Linux, Slurm, LaTeX, TOPCAT; SQL, Spark, Fortran, Java, C (basic).
+* **Data:** optical photometry and spectroscopy (SDSS, CFHT, DECam, VLT); X-ray data reduction with eROSITA (eSASS).
