@@ -3,7 +3,7 @@
 
 Usage (from the repository root):
 
-    export ADS_API_TOKEN=...            # https://ui.adsabs.harvard.edu/user/settings/token
+    export ADS_API_TOKEN=...   # or store the token in ~/.ads/dev_key
     python3 scripts/ads_publications.py                         # regular update
     python3 scripts/ads_publications.py --bootstrap-from LIST.pdf  # (re)build the section mapping
     python3 scripts/ads_publications.py --check-pdf LIST.pdf       # parse the PDF only, no ADS call
@@ -85,8 +85,12 @@ def norm(text):
 
 def ads_session():
     token = os.environ.get("ADS_API_TOKEN")
+    key_file = os.path.expanduser("~/.ads/dev_key")
+    if not token and os.path.exists(key_file):
+        token = open(key_file).read().strip()
     if not token:
-        sys.exit("Set ADS_API_TOKEN (https://ui.adsabs.harvard.edu/user/settings/token).")
+        sys.exit("Set ADS_API_TOKEN or write the token to ~/.ads/dev_key "
+                 "(https://ui.adsabs.harvard.edu/user/settings/token).")
     session = requests.Session()
     session.headers["Authorization"] = "Bearer " + token
     return session
