@@ -25,9 +25,8 @@ Collaborations
 * **Euclid:** Clusters of Galaxies Science Working Group.
 * **Rubin Observatory LSST:** Dark Energy Science Collaboration and Galaxies Science Collaboration.
 * **eROSITA:** galaxy clusters and cosmology, AGN, and normal galaxies working groups; end-to-end simulations of the X-ray sky.
-* **4MOST:** principal investigator of the eROSITA cluster redshift survey (S5), and member of four other surveys (S6, S8, S15, S17).
 
-In the past I have been part of SDSS-III/BOSS, SDSS-IV/eBOSS and SPIDERS, SDSS-V, DESI, the DESI Legacy Imaging Surveys and MultiDark. I created the initial version of the [Skies & Universes](http://skiesanduniverses.org/) database.
+In the past I have actively contributed to SDSS-III/BOSS, SDSS-IV/eBOSS and SPIDERS, SDSS-V, 4MOST (now permanent member), DESI, the DESI Legacy Imaging Surveys and MultiDark. 
 
 See my [publications](/publications/), [invited talks](/talks/), [teaching](/teaching/) and [CV](/cv/).
 
