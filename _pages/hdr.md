@@ -20,7 +20,7 @@ author_profile: true
 | Matthew Lehnert | Directeur de recherche, CRAL Lyon | Rapporteur |
 | Laurence Tresse | Astronome, LAM Marseille | Examinatrice |
 | Etienne Pointecouteau | Directeur de recherche, IRAP Toulouse | Examinateur |
-| Laurent Derome | Professeur des universités, LPSC Grenoble | Examinateur |
+| Laurent Derome | Professeur des universités, LPSC Grenoble | Président du jury |
 | Johan Richard | Astronome, CRAL Lyon | Examinateur |
 
 ### Summary
