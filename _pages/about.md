@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an observational cosmologist. Since December 2025 I hold a *Chaire de professeur junior* at the [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/) and the [Laboratoire de Physique Subatomique et de Cosmologie (LPSC)](https://lpsc.in2p3.fr/) in Grenoble. My project there is *the large-scale structure seen by Euclid and Rubin/LSST*.
+I am an observational cosmologist. Since December 2025 I hold a *Chaire de professeur junior* at the [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/) and the [Laboratoire de Physique Subatomique et de Cosmologie (LPSC)](https://lpsc.in2p3.fr/) in Grenoble. My research  topic is *multi-wavelength cosmology and large-scale structure*.
 
-I study how the large-scale structure of the Universe looks at different wavelengths, mostly in X-rays and in the optical. I use this to test the cosmological model and to understand how galaxies, their hot gas and their supermassive black holes live inside dark matter haloes.
+I study how the large-scale structure of the Universe looks at different wavelengths. I use this to test the cosmological model and to understand how galaxies, their hot gas and their supermassive black holes live together and interact inside dark matter haloes.
 
-Before Grenoble, I was a researcher at the [Max-Planck-Institut für extraterrestrische Physik (MPE)](https://www.mpe.mpg.de/) in Garching (2017–2025), where I worked on the eROSITA X-ray surveys. Before that I was a Severo Ochoa postdoctoral fellow at the Instituto de Física Teórica (UAM-CSIC) in Madrid (2014–2017). I did my PhD at the Laboratoire d'Astrophysique de Marseille (2013), measuring baryon acoustic oscillations with emission-line galaxies. I obtained my [habilitation (HDR)](/hdr/) from the Université Grenoble Alpes in July 2026.
+Before Grenoble, I was a researcher at the [Max-Planck-Institut für extraterrestrische Physik (MPE)](https://www.mpe.mpg.de/) in Garching (2017–2025), where I worked on eROSITA, 4MOST, SDSS and LS10 surveys. Before that I was a Severo Ochoa postdoctoral fellow at the Instituto de Física Teórica (UAM-CSIC) in Madrid (2014–2017). I did my PhD at the Laboratoire d'Astrophysique de Marseille (2013), measuring baryon acoustic oscillations with emission-line galaxies. I obtained my [habilitation (HDR)](/hdr/) from the Université Grenoble Alpes in July 2026.
 
 Research interests
 ------
