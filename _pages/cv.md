@@ -26,7 +26,7 @@ Long-term visits: LPSC, Grenoble (2024–2025); Lawrence Berkeley National Labor
 
 Education
 ======
-* **2026:** Habilitation à Diriger des Recherches, Université Grenoble Alpes. [*The cosmological large-scale structure in multi-wavelength, a focus on X-rays and optical*](/hdr/).
+* **2026:** Habilitation à Diriger des Recherches, Université Grenoble Alpes. [*The cosmological large-scale structure in multi-wavelength, a focus on X-rays and optical*](/hdr/) ([manuscript](https://drive.proton.me/urls/AB2PMSSMMM#a2VprlAOsahS)).
 * **2013:** PhD in astrophysics and cosmology, Laboratoire d'Astrophysique de Marseille. *Baryon acoustic oscillations with emission line galaxies at intermediate redshift.* Advisors: J.-P. Kneib, C. Schimd.
 * **2010:** Master in physics, École Polytechnique Fédérale de Lausanne (LASTRO), Switzerland. Search for lensed quasars. Advisors: G. Meylan, F. Courbin.
 * **2005–2010:** Engineering degree, École Polytechnique (X05), Palaiseau, France. Exoplanet detection with microlensing. Advisor: J.-P. Beaulieu.

@@ -11,6 +11,8 @@ author_profile: true
 
 **Publicly defended on 7 July 2026** at LPSC, Grenoble.
 
+[Read the manuscript (PDF, 106 pages)](https://drive.proton.me/urls/AB2PMSSMMM#a2VprlAOsahS){: .btn}
+
 ### Jury
 
 | Member | Institution | Role |
