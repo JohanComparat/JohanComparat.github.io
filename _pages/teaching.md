@@ -23,7 +23,7 @@ Master and graduate schools
 Earlier teaching
 ------
 * **2010–2012:** optics, mechanics, acoustics and mathematics, physics bachelor 1st and 2nd year, Université de Provence, Marseille, France. 210 h.
-* **2007–2008:** mathematics, classes préparatoires, Paris, France. 300 h.
+* **2007–2008:** mathematics, classes préparatoires, Optimal-prepa, Paris, France. 300 h.
 
 Student supervision
 ------
