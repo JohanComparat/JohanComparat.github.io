@@ -42,8 +42,9 @@ Grants
 Supervision
 ======
 **PhD students**
+* H. Sedlacek, 2026–, UGA/LPSC
 * S. Shreeram, 2021–2025, MPE
-* Y. Zhang, 2021–2025, MPE
+* Y. Zhang, 2021–2025, MPE (co-supervised with G. Ponti)
 * R. Seppi, 2019–2023, MPE
 * J. Ider Chitham, 2017–2021, MPE
 * F. Albareti, 2015–2018, UAM Madrid (co-supervised with F. Prada)
