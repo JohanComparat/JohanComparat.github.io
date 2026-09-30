@@ -96,10 +96,10 @@ Outreach
 Skills
 ======
 * **Languages:** French (native), English (fluent), German (fluent), Spanish (good), Italian (basic).
-* **Computing:** Python, Linux, Slurm, LaTeX, TOPCAT; SQL, Spark, Fortran, Java, C (basic).
+* **Computing:** Python (JAX), Linux, Slurm, LaTeX, TOPCAT; SQL, Spark, Fortran, Java, C (basic). See [software](/software/).
 * **Data:** optical photometry and spectroscopy (SDSS, CFHT, DECam, VLT); X-ray data reduction with eROSITA (eSASS).
 
 Personal
 ======
 * Married, three children (born 2016, 2022 and 2024).
-* Hobbies: climbing, mountaineering, cycling, piano.
+* Hobbies: climbing, mountaineering, cycling, judo, piano, opera.

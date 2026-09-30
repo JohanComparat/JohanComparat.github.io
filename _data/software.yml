@@ -1,0 +1,55 @@
+# Software listed on /software/.
+# Fields: name, description, tags (optional), github, pypi, docs (optional URLs)
+
+packages:
+  - name: ggah_mod
+    description: "A layered, differentiable halo-model forward model for galaxies, gas and AGN."
+    tags: [JAX, differentiable]
+    github: https://github.com/JohanComparat/ggah_mod
+    pypi: https://pypi.org/project/ggah-mod/
+    docs: https://ggah-mod.readthedocs.io
+  - name: emu_pk
+    description: "A differentiable linear matter power spectrum emulator, including massive neutrinos, CPL dark energy and spatial curvature."
+    tags: [JAX, differentiable, emulator]
+    github: https://github.com/JohanComparat/emu_pk
+    pypi: https://pypi.org/project/emu-pk/
+    docs: https://emu-pk.readthedocs.io/en/stable/
+  - name: emu_hmf
+    description: "A differentiable, cosmology-dependent recalibration of the Tinker08 halo multiplicity function."
+    tags: [JAX, differentiable, emulator]
+    github: https://github.com/JohanComparat/emu_hmf
+    pypi: https://pypi.org/project/emu-hmf/
+    docs: https://emu-hmf.readthedocs.io
+  - name: hod_mod
+    description: "HOD galaxy clustering, weak lensing and gas cross-correlation predictions and fitting."
+    tags: [JAX]
+    github: https://github.com/JohanComparat/hod_mod
+    pypi: https://pypi.org/project/hod-mod/
+    docs: https://hod-mod.readthedocs.io
+  - name: sys_mapping
+    description: "Joint inference of multiplicative and additive systematics in galaxy clustering."
+    tags: [JAX]
+    github: https://github.com/JohanComparat/sys_mapping
+    pypi: https://pypi.org/project/sys-mapping/
+    docs: https://sys-mapping.readthedocs.io/en/latest/
+  - name: sum_stat
+    description: "Cosmological summary statistics from galaxy catalogues and lensing data: stellar mass function, angular and projected correlation functions, galaxy-galaxy lensing."
+    pypi: https://pypi.org/project/sum-stat/
+    docs: https://sum-stat.readthedocs.io
+
+other:
+  - name: st_mod
+    description: "Models to fit X-ray stacks around galaxies: PSF, background, AGN and X-ray binaries, hot gas."
+    github: https://github.com/JohanComparat/st_mod
+  - name: nbody-npt-functions
+    description: "One- and two-point functions from N-body simulations (see Comparat et al. 2017, arXiv:1702.01628)."
+    github: https://github.com/JohanComparat/nbody-npt-functions
+  - name: pySU
+    description: "Python tools for the Skies & Universes database and emission-line luminosity functions."
+    github: https://github.com/JohanComparat/pySU
+  - name: makeSample
+    description: "Clustering catalogues for SDSS-IV SPIDERS AGN, SPIDERS CODEX clusters and eBOSS emission-line galaxies."
+    github: https://github.com/JohanComparat/makeSample
+  - name: qmost_templates
+    description: "Spectral templates for 4MOST."
+    github: https://github.com/JohanComparat/qmost_templates

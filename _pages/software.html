@@ -1,0 +1,30 @@
+---
+layout: archive
+title: "Software"
+permalink: /software/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign sw = site.data.software %}
+
+<p>Open-source codes I develop for modelling and measuring the large-scale structure. The Python packages are built on JAX and can be installed with <code>pip</code>. More code is on <a href="https://github.com/{{ site.author.github }}">GitHub</a>.</p>
+
+<h2 id="packages">Python packages</h2>
+<ul>
+{% for p in sw.packages %}
+  <li>
+    <strong><a href="{{ p.docs | default: p.github | default: p.pypi }}">{{ p.name }}</a></strong>: {{ p.description }}
+    {% if p.tags %}<em>({{ p.tags | join: ", " }})</em>{% endif %}<br/>
+    {% if p.docs %}<a href="{{ p.docs }}">Documentation</a>{% endif %}{% if p.pypi %} · <a href="{{ p.pypi }}">PyPI</a>{% endif %}{% if p.github %} · <a href="{{ p.github }}">GitHub</a>{% endif %}
+  </li>
+{% endfor %}
+</ul>
+
+<h2 id="other">Other code</h2>
+<ul>
+{% for p in sw.other %}
+  <li><strong><a href="{{ p.github }}">{{ p.name }}</a></strong>: {{ p.description }}</li>
+{% endfor %}
+</ul>
