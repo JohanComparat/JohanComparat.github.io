@@ -20,22 +20,18 @@ packages:
     github: https://github.com/JohanComparat/emu_hmf
     pypi: https://pypi.org/project/emu-hmf/
     docs: https://emu-hmf.readthedocs.io
-  - name: hod_mod
-    description: "HOD galaxy clustering, weak lensing and gas cross-correlation predictions and fitting."
-    tags: [JAX]
-    github: https://github.com/JohanComparat/hod_mod
-    pypi: https://pypi.org/project/hod-mod/
-    docs: https://hod-mod.readthedocs.io
   - name: sys_mapping
     description: "Joint inference of multiplicative and additive systematics in galaxy clustering."
     tags: [JAX]
     github: https://github.com/JohanComparat/sys_mapping
     pypi: https://pypi.org/project/sys-mapping/
     docs: https://sys-mapping.readthedocs.io/en/latest/
-  - name: sum_stat
-    description: "Cosmological summary statistics from galaxy catalogues and lensing data: stellar mass function, angular and projected correlation functions, galaxy-galaxy lensing."
-    pypi: https://pypi.org/project/sum-stat/
-    docs: https://sum-stat.readthedocs.io
+  - name: hod_mod
+    description: "HOD galaxy clustering, weak lensing and gas cross-correlation predictions and fitting."
+    tags: [JAX]
+    github: https://github.com/JohanComparat/hod_mod
+    pypi: https://pypi.org/project/hod-mod/
+    docs: https://hod-mod.readthedocs.io
 
 other:
   - name: st_mod
