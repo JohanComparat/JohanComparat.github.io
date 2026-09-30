@@ -11,7 +11,7 @@ redirect_from:
 
 Positions
 ======
-* **Since Dec. 2025:** *Chaire de professeur junior*, Université Grenoble Alpes and LPSC (CNRS/IN2P3), Grenoble, France.
+* **Since Dec. 2025:** *Chaire de professeur junior*, [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/en) and [LPSC](https://lpsc.in2p3.fr/) (CNRS/IN2P3), Grenoble, France.
   * The large-scale structure seen by Euclid and Rubin/LSST. Collaborators: J. Macías-Pérez, C. Combet.
 * **2017–2025:** Researcher, Max-Planck-Institut für extraterrestrische Physik (MPE), Garching, Germany.
   * The large-scale structure seen in X-rays: clusters, AGN, galaxies. Clustering and lensing of AGN and galaxies. Cosmology with the cluster halo mass function. End-to-end cosmological simulations for X-ray all-sky surveys. Optical follow-up of X-ray sources with photometry and spectroscopy. Collaborators: A. Merloni, M. Salvato, G. Ponti, E. Bulbul, K. Nandra.

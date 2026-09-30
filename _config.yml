@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Chaire de professeur junior in cosmology at Université Grenoble Alpes & LPSC"
   location         : "Grenoble, France"
-  employer         : "Université Grenoble Alpes / LPSC"
+  employer         : '<a href="https://www.univ-grenoble-alpes.fr/en">Université Grenoble Alpes</a> / <a href="https://lpsc.in2p3.fr/">LPSC</a>'
   uri              : # URL
   email            : "jcomparat@lpsc.in2p3.fr" 
 

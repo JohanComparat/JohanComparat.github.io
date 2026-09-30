@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an observational cosmologist. Since December 2025 I hold a *Chaire de professeur junior* at the [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/) and the [Laboratoire de Physique Subatomique et de Cosmologie (LPSC)](https://lpsc.in2p3.fr/) in Grenoble. My research  topic is *multi-wavelength cosmology and large-scale structure*.
+I am an observational cosmologist. Since December 2025 I hold a *Chaire de professeur junior* at the [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/en) and the [Laboratoire de Physique Subatomique et de Cosmologie (LPSC)](https://lpsc.in2p3.fr/) in Grenoble. My research  topic is *multi-wavelength cosmology and large-scale structure* with a particular focus on exploiting observations from the Euclid and Rubin/LSST observatories.
 
 I study how the large-scale structure of the Universe looks at different wavelengths. I use this to test the cosmological model and to understand how galaxies, their hot gas and their supermassive black holes live together and interact inside dark matter haloes.
 
@@ -34,7 +34,7 @@ See my [publications](/publications/), [invited talks](/talks/), [teaching](/tea
 Contact
 ------
 Johan Comparat<br/>
-Laboratoire de Physique Subatomique et de Cosmologie (LPSC)<br/>
+[Laboratoire de Physique Subatomique et de Cosmologie (LPSC)](https://lpsc.in2p3.fr/)<br/>
 53 avenue des Martyrs<br/>
 38000 Grenoble, France<br/>
 Email: [jcomparat@lpsc.in2p3.fr](mailto:jcomparat@lpsc.in2p3.fr)

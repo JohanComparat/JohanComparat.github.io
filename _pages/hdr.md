@@ -7,7 +7,7 @@ author_profile: true
 
 ## The cosmological large-scale structure in multi-wavelength, a focus on X-rays and optical
 
-*Habilitation à Diriger des Recherches* of the Université Grenoble Alpes, speciality Physics, prepared at the Laboratoire de Physique Subatomique et de Cosmologie (LPSC) within the École Doctorale de Physique de Grenoble.
+*Habilitation à Diriger des Recherches* of the [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/en), speciality Physics, prepared at the [Laboratoire de Physique Subatomique et de Cosmologie (LPSC)](https://lpsc.in2p3.fr/) within the École Doctorale de Physique de Grenoble.
 
 **Publicly defended on 7 July 2026** at LPSC, Grenoble.
 

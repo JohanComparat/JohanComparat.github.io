@@ -7,7 +7,7 @@ author_profile: true
 
 Upcoming
 ------
-* **Spring 2027: Special relativity** (bachelor 2nd year), Université Grenoble Alpes. Lectures and exercise classes, given in French as PHY403 and in English as PHY433.
+* **Spring 2027: Special relativity** (bachelor 2nd year), [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/en). Lectures and exercise classes, given in French as PHY403 and in English as PHY433.
 
 Université Grenoble Alpes
 ------
