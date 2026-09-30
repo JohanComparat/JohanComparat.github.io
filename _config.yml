@@ -23,7 +23,7 @@ repository               : "JohanComparat/JohanComparat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "johan_comparat.jpg"
   name             : "Johan Comparat"
   pronouns         : # example: "she/her"  
   bio              : "Chaire de professeur junior in cosmology at Université Grenoble Alpes & LPSC"
