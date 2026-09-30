@@ -1,16 +1,33 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Invited talks"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+{% assign t = site.data.talks %}
 
-{% endif %}
+<p>Invited talks at international conferences and seminars: {{ t.invited_conferences | size }} conference talks and {{ t.invited_seminars | size }} seminars. In total I have given 157 presentations, including 59 contributed conference talks, 47 workshop talks and 2 posters (as of 2026).</p>
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% for talk in t.highlight %}
+<div class="notice--info">
+  <strong>{% if talk.url %}<a href="{{ base_path }}{{ talk.url }}">{{ talk.title }}</a>{% else %}{{ talk.title }}{% endif %}</strong><br/>
+  {{ talk.event }}, {{ talk.where }}, {{ talk.when }}
+</div>
 {% endfor %}
+
+<h2 id="conferences">Invited conference talks</h2>
+<ol reversed>
+{% for talk in t.invited_conferences %}
+  <li><strong>{{ talk.title }}</strong>{% if talk.note %} ({{ talk.note }}){% endif %}. <em>{{ talk.event }}</em>{% if talk.where %}, {{ talk.where }}{% endif %}, {{ talk.when }}.</li>
+{% endfor %}
+</ol>
+
+<h2 id="seminars">Invited seminars</h2>
+<ol reversed>
+{% for talk in t.invited_seminars %}
+  <li><strong>{{ talk.title }}</strong>. <em>{{ talk.event }}</em>{% if talk.where %}, {{ talk.where }}{% endif %}, {{ talk.when }}.</li>
+{% endfor %}
+</ol>
