@@ -2,6 +2,15 @@
 
 <!-- start custom head snippets -->
 
+<!-- Dark theme by default, before the page is drawn; the toggle stores the visitor's choice -->
+<script>
+  (function () {
+    var t = null;
+    try { t = localStorage.getItem("theme"); } catch (e) {}
+    if (t !== "light") { document.documentElement.setAttribute("data-theme", "dark"); }
+  })();
+</script>
+
 <!-- Support for Academicons -->
 <link rel="preload" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></noscript>

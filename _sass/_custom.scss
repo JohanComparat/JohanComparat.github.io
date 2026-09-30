@@ -21,6 +21,7 @@ html {
 body {
   background-color: transparent;
   padding-bottom: 0; /* the footer is no longer fixed, see below */
+  margin-bottom: 0 !important; /* overrides the space main.min.js reserves for a fixed footer */
 
   &::before {
     content: "";
