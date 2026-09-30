@@ -22,7 +22,7 @@ The list is fetched from NASA ADS with the query `author:"Comparat, Johan"`.
 `scripts/pub_sections.yml` assigns each bibcode to a section of the page.
 
 ```bash
-export ADS_API_TOKEN=...   # https://ui.adsabs.harvard.edu/user/settings/token
+export ADS_API_TOKEN=...   # or store the token in ~/.ads/dev_key (https://ui.adsabs.harvard.edu/user/settings/token)
 python3 scripts/ads_publications.py
 ```
 
