@@ -1,0 +1,91 @@
+/* ==========================================================================
+   CUSTOM: galaxy-cluster background with translucent panels
+   Background: Abell 2744, DESI Legacy Imaging Surveys DR10 (credited in the footer)
+   ========================================================================== */
+
+:root {
+  --panel-bg: rgba(255, 255, 255, 0.9);
+  --panel-radius: 8px;
+}
+
+html[data-theme="dark"] {
+  --global-bg-color: #0e121c;
+  --global-footer-bg-color: #0e121c;
+  --panel-bg: rgba(14, 18, 28, 0.86);
+}
+
+html {
+  background-color: #05070d;
+}
+
+body {
+  background-color: transparent;
+  padding-bottom: 0; /* the footer is no longer fixed, see below */
+
+  &::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    background: #05070d url("../../images/background.jpg") center / cover no-repeat;
+  }
+}
+
+@mixin glass-panel {
+  background-color: var(--panel-bg);
+  -webkit-backdrop-filter: blur(6px);
+          backdrop-filter: blur(6px);
+}
+
+/* Header bar */
+.masthead {
+  @include glass-panel;
+}
+
+.greedy-nav,
+.greedy-nav button,
+.masthead__menu-item {
+  background: transparent;
+}
+
+/* Sidebar author card */
+.sidebar > div {
+  @include glass-panel;
+  border-radius: var(--panel-radius);
+  padding: 0.75em;
+
+  @include breakpoint($large) {
+    margin-right: 1em;
+  }
+}
+
+/* Page content */
+.page__inner-wrap,
+.archive {
+  @include glass-panel;
+  border-radius: var(--panel-radius);
+  padding: 1em;
+
+  @include breakpoint($large) {
+    padding: 1.5em 2em;
+  }
+}
+
+/* Footer: at the end of the page instead of fixed over the content */
+.page__footer {
+  @include glass-panel;
+  color: var(--global-text-color);
+  position: relative;
+  bottom: auto;
+}
+
+/* Linked employer names ("UGA / LPSC") flow as text in the sidebar */
+.author__urls li.author__desktop {
+  white-space: normal;
+
+  a {
+    display: inline;
+    margin: 0;
+    padding: 0;
+  }
+}
